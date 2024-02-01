@@ -1,5 +1,7 @@
 # Overview
 
+Run the WASM components in https://github.com/HarikrishnanBalagopal/test-wasm-components-handwritten
+
 Based on this tutorial https://ifcoltransglinks.wordpress.com/2024/01/24/creating-a-webassembly-component-with-wat-and-wit/
 
 Host for the manually written WASM component.
